@@ -1,0 +1,17 @@
+.card {
+    margin: 1rem;
+    padding: 0;
+}
+
+footer {
+    padding: 0;
+    margin: 0;
+}
+
+.pub {
+    background-color: rgb(241, 245, 241);
+}
+
+footer .col-md-13 {
+    padding: 0.5rem;
+}
